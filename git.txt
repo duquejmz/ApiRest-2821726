@@ -1,0 +1,14 @@
+git init
+git add .
+git config user.email "duquejimenezcm@gmail.com"
+git config user.name "duquejmz"
+git commit -m "Primer Commit"
+git branch -M main
+git remote add origin https://github.com/duquejmz/ApiRest-2821726.git
+git push -u origin main
+
+* ACTUALIZAR EL REPOSITORIO *
+git pull
+git add .
+git commit -m "Update Repository"
+git push -u origin main
